@@ -1,0 +1,38 @@
+body{
+    background-color: #F0ECE5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+#encabezado{
+    box-shadow: 10px 10px 15px lightgray ;
+    height: 2cm;
+    position:sticky;
+}
+#encabezado a{
+    text-decoration: none;
+    padding: 10px;
+}
+.navegacionInicio{
+    display:flex;
+    justify-content: right;
+}
+#hola div{
+    display: inline-block;
+    width: 10cm;
+    height: 10cm;
+    margin-top: 7cm;
+}
+
+#avatar{
+    display: inline-block;
+    width:10cm;
+    height:10cm;
+    margin-left:900px;
+}
+#presentacion{
+    display: inline;
+}
+footer{
+    margin-right:auto;
+    margin-right:auto;
+}
